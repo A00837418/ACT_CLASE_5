@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.30)
 
 # Nombre del proyecto
-project(ACT_CLASE_5 VERSION 1.0.0 LANGUAGES C CXX)
+project(sonarqube_unit_test VERSION 1.0.0 LANGUAGES C CXX)
 
 # Configuración global de CMake
 set(CMAKE_CXX_STANDARD 20)
